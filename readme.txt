@@ -16,4 +16,5 @@ File: digital-toys.jmx
 → Teste com include controller e test fragmente
 
 File: pro-apache-jmeter-master 
+https://www.udemy.com/course/jmeter-teste-de-performance-de-aplicacoes-web
 Arquivo utilizado para subir servidor para testes
